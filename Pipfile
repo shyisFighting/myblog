@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "http://pypi.douban.com/simple/  --trusted-host pypi.douban.com"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+request = "*"
+markdown = "*"
+
+[requires]
+python_version = "3.8"
